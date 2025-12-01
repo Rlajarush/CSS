@@ -1,0 +1,50 @@
+body{
+    background-color: white;
+}
+.contectinfo{
+    border: 2px solid black;
+    background-color: gray;
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap-reverse;
+    flex-direction: row;
+    margin-right: 0%;
+
+}
+.div{
+    margin: 10px;
+    padding: 10px;
+    background-color:gray;
+    display: flex;
+    flex-wrap: column wrap;
+    flex-direction: column;
+}
+.educationditails{
+    padding: 10px;
+    margin: 10px;
+    flex-direction: column gap ; 
+    display: flex;
+    justify-content: space-between;
+
+}
+ 
+.all{
+    display: flex;
+    flex-direction:column gap;
+}
+.all h1 {
+    color: rgb(38, 220, 205);
+}
+.skill box{
+    background-color: aqua;
+    color: white;
+    box-shadow: inset;
+    border: 2px;
+    border-radius: 3px;
+}
+h2{
+    color: gray;
+}
+
+
+
